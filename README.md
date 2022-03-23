@@ -1,4 +1,5 @@
 # Miw-tutorial-backend
 CI Repository
 
-mess
+git clone
+
